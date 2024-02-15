@@ -1,20 +1,31 @@
-title: ""
-description: ""
-baseurl: ""
-url: ""
+title: Jekyll Material You
+markdown: kramdown
+# url: ""
+# baseurl: "/jekyll-theme-material-you"
 
-lowercase: true
-color_bg: var(--oc-gray-9)
-color_punct: var(--oc-green-9)
-color_keyval: var(--oc-green-4)
-color_hover: var(--oc-green-5)
-show_quotes: true
-show_commas: true
-target: "_self"
+# for atom feed
+author:
+  name: Sharad Raj Singh Maurya
+  email: dev_sharad@outlook.com
 
 plugins:
+  - jemoji
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
+
+collections_dir: all_collections
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: /posts/:title/
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
 
 title: hola ASIR2
 
