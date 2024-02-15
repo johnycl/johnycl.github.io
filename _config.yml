@@ -1,7 +1,8 @@
-#theme: minimal-mistakes-jekyll
-remote_theme: "jekyll-theme-antarctica"
-
-minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
 
 plugins:
   - jekyll-remote-theme 
