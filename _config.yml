@@ -1,17 +1,7 @@
-title: Jekyll Serial Programmer
-markdown: kramdown
-
-# for atom feed
-author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
-
-plugins:
-  - jemoji
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-
+permalink: /404.html
+url: "johnycl.github.io"
+targeturl: ""
+baseurl: ""
 title: hola ASIR2
 
 defaults:
