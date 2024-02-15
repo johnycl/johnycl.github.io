@@ -1,7 +1,13 @@
-permalink: /404.html
-url: "johnycl.github.io"
-targeturl: ""
-baseurl: ""
+#theme: minimal-mistakes-jekyll
+remote_theme: "jekyll-theme-antarctica"
+
+minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+plugins:
+  - jekyll-remote-theme 
+  - jekyll-include-cache # add this line to the plugins list if you already have one
+  - jekyll-paginate
+
 title: hola ASIR2
 
 defaults:
