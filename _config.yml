@@ -15,3 +15,40 @@ target: "_self"
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+title: hola ASIR2
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+    # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+collections:
+  members:
+    output: true
+
+
+
+# número de posts por página
+paginate: 2
+paginate_path: /blog/page:num/
+
+
+
+minima:
+  skin: dark
+
+name: oscar novillo
+  
