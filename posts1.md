@@ -1,9 +1,9 @@
 ---
 title: "post"
-layout: posts
+layout: post
 tags: prueba2
 permalink: /posts/
 author_profile: true
 ---
-# Post 2
+# Post 1
 test post 2
