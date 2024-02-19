@@ -1,11 +1,5 @@
 ---
 title: sobre_nosotros
-layout: asdasdasdasd
-
-date: 2024-10-10
-author: juan
-tags: juegos,mierda
-
 ---
 <html lang="es">
 <head>
