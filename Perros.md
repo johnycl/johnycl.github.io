@@ -1,10 +1,9 @@
 ---
-title: members
+title: Perros
 
 ---
 
-html
-Copy code
+<h1>Raza de perro, edad y sexo </h1>
 <table>
   <thead>
     <tr>
