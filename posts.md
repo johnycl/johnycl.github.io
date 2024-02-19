@@ -1,8 +1,7 @@
 ---
 title: "post"
-layout: post
-tags: prueba
-permalink: /posts/
+layout: posts
+tag: prueba
 author_profile: true
 ---
 # Post 1

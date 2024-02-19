@@ -1,6 +1,6 @@
 ---
 title: "post"
-layout: post
+layout: posts
 tags: prueba2
 permalink: /posts/
 author_profile: true
