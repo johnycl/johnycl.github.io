@@ -1,6 +1,6 @@
 ---
 title: Perros
-
+layout: post
 ---
 
 <h1>Raza de perro, edad y sexo </h1>

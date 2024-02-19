@@ -1,7 +1,7 @@
 ---
 
 title: "Gallery"
-
+layaut: post
 ---
 <html lang="es">
 <head>
