@@ -1,6 +1,6 @@
 ---
 title: "post"
-layout: posts
+layout: post
 tag: prueba
 author_profile: true
 ---
