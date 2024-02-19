@@ -1,10 +1,10 @@
 [
-    { "raza": "pitbul", "edad_dueno": 19, "sexo_perro": "F" },
-    { "raza": "pincher", "edad_dueno": 32, "sexo_perro": "M" },
-    { "raza": "caniche", "edad_dueno": 27, "sexo_perro": "M" },
-    { "raza": "galgo", "edad_dueno": 22, "sexo_perro": "F" },
-    { "raza": "beagel", "edad_dueno": 17, "sexo_perro": "M" },
-    { "raza": "husky", "edad_dueno": 28, "sexo_perro": "F" },
-    { "raza": "chiguagua", "edad_dueno": 24, "sexo_perro": "M" },
-    { "raza": "pomerania", "edad_dueno": 41, "sexo_perro": "F"}
+    { "raza": "pitbul", "edad_dueno": 19, "sexo_perro": "Hembra" },
+    { "raza": "pincher", "edad_dueno": 32, "sexo_perro": "Macho" },
+    { "raza": "caniche", "edad_dueno": 27, "sexo_perro": "Macho" },
+    { "raza": "galgo", "edad_dueno": 22, "sexo_perro": "Hembra" },
+    { "raza": "beagel", "edad_dueno": 17, "sexo_perro": "Macho" },
+    { "raza": "husky", "edad_dueno": 28, "sexo_perro": "Hembra" },
+    { "raza": "chiguagua", "edad_dueno": 24, "sexo_perro": "Macho" },
+    { "raza": "pomerania", "edad_dueno": 41, "sexo_perro": "Hembra"}
 ]

@@ -74,4 +74,4 @@ title: sobre_nosotros
         <p>&copy; 2024 Mi Página Web. Todos los derechos reservados.</p>
     </footer>
 </body>
-</html
+</html>
