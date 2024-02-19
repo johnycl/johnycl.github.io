@@ -3,16 +3,23 @@ title: members
 
 ---
 
-# Members
-
-
-{% for member in site.members %}
-  ## {{ member.name }} - {{ member.position }} {{ member.position2 }}
-  [ver]({{ member.url }}) 
-  {{ member.content | markdownify }}
-{% endfor %}
-
-
-{% for perro in site.data.perros %}
-  ## {{ perro.raza }} - {{ perro.edad_dueno }} {{ perro.sexo_perro}}
-{% endfor %}
+html
+Copy code
+<table>
+  <thead>
+    <tr>
+      <th>Raza</th>
+      <th>Edad del Dueño</th>
+      <th>Sexo del Perro</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for perro in site.data.perros %}
+      <tr>
+        <td>{{ perro.raza }}</td>
+        <td>{{ perro.edad_dueno }}</td>
+        <td>{{ perro.sexo_perro }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
