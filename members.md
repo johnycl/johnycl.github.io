@@ -14,5 +14,5 @@ title: members
 
 
 {% for perro in site.data.perros %}
-  ## {{ perro.nombre }} - {{ perro.edad }}
+  ## {{ perro.raza }} - {{ perro.edad_dueno }}
 {% endfor %}
