@@ -7,7 +7,7 @@ title: members
 
 
 {% for member in site.members %}
-  ## {{ member.name }} - {{ member.position }}
+  ## {{ member.name }} - {{ member.position }} {{ member.position2 }}
   [ver]({{ member.url }}) 
   {{ member.content | markdownify }}
 {% endfor %}
