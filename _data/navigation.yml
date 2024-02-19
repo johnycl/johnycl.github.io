@@ -8,14 +8,12 @@ main:
         url: /child-2-page-url/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "pagina1"
+    url: /pagina1/
   - title: "Tags"
     url: /tags/
-  - title: "Members"
-    url: /members/
-  - title: "kiko"
-    url: /kiko/
+  - title: "Perros"
+    url: /Perros/
   - title: "External Link"
     url: https://google.com
 foo:
@@ -28,14 +26,14 @@ foo:
         url: /child-2-page-url/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "pagina1"
+    url: /pagina1/
   - title: "Tags"
     url: /tags/
-  - title: "Members"
-    url: /members/
-  - title: "kiko"
-    url: /kiko/
+  - title: "Perros"
+    url: /Perros/
+  - title: "galeriamages"
+    url: /galeriamages/
   - title: "External Link"
     url: https://google.com
 

@@ -16,7 +16,7 @@ permalink: /
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perros Hacker</title>
+    <title>Perros</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -50,7 +50,7 @@ permalink: /
 </head>
 <body>
     <header>
-        <h1>Perros Hacker</h1>
+        <h1>Perros</h1>
     </header>
     <div class="article">
         <h2>Riesgos de ciberseguridad para perros y sus dueños</h2>
