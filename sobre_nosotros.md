@@ -11,11 +11,41 @@ tags: juegos,mierda
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Primera Página Web</title>
+    <title>sobre nosotros</title>
+     <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        h1 {
+            margin-top: 20px;
+            color: #333;
+            text-align: center;
+        }
+        p {
+            margin: 20px;
+            text-align: justify;
+        }
+        .article {
+            background-color: #fff;
+            padding: 20px;
+            margin: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
 </head>
 <body>
     <header>
-        <h1>Bienvenido a Mi Página Web</h1>
+        <h1>sobre nosotros</h1>
         <nav>
             <ul>
                 <li><a href="#inicio">Inicio</a></li>
