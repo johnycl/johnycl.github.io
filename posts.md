@@ -1,6 +1,7 @@
 ---
 title: "post"
 layout: post
+tags: prueba
 permalink: /posts/
 author_profile: true
 ---
