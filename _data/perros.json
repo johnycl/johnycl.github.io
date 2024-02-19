@@ -1,0 +1,10 @@
+[
+    { "raza": "pedro", "edad_dueno": 19, "sexo_perro": "F" },
+    { "raza": "luis", "edad_dueno": 32, "sexo_perro": "M" },
+    { "raza": "juana", "edad_dueno": 27, "sexo_perro": "M" },
+    { "raza": "hidalgo", "edad_dueno": 22, "sexo_perro": "F" },
+    { "raza": "valenti", "edad_dueno": 17, "sexo_perro": "M" },
+    { "raza": "alex", "edad_dueno": 28, "sexo_perro": "F" },
+    { "raza": "capo", "edad_dueno": 24, "sexo_perro": "M" },
+    { "raza": "Julia", "edad_dueno": 41, "sexo_perro": "F"}
+]

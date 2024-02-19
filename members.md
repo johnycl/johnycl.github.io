@@ -13,6 +13,6 @@ title: members
 {% endfor %}
 
 
-{% for persona in site.data.personas %}
-  ## {{ persona.nombre }} - {{ persona.edad }}
+{% for perro in site.data.perros %}
+  ## {{ perro.nombre }} - {{ perro.edad }}
 {% endfor %}
