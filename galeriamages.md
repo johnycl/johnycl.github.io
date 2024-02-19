@@ -25,8 +25,8 @@ title: "Gallery"
     <h1>Galería de Perros</h1>
     <div class="gallery">
         <img src="https://media.istockphoto.com/id/513133900/es/foto/oro-retriever-sentado-en-frente-de-un-fondo-blanco.jpg?s=612x612&w=0&k=20&c=0lRWImB8Y4p6X6YGt06c6q8I3AqBgKD-OGQxjLCI5EY=" alt="Perro 1">
-        <img src="https://unsplash.com/es/images/animals/dog" alt="Perro 2">
-        <img src="https://www.freepik.es/fotos/perro" alt="Perro 3">
+        <img src="https://img.freepik.com/foto-gratis/aislado-feliz-sonriente-perro-fondo-blanco-retrato-4_1562-693.jpg?size=626&ext=jpg " alt="Perro 2">
+        <img src="https://img.freepik.com/foto-gratis/perro-gracioso-beagle-feliz-caminando-jugando-parque_176420-6453.jpg?size=626&ext=jpg&ga=GA1.1.1270795388.1708374543&semt=sph" alt="Perro 3">
     </div>
 </body>
 </html>

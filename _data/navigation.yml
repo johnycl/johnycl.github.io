@@ -14,8 +14,11 @@ main:
     url: /tags/
   - title: "Perros"
     url: /Perros/
-  - title: "External Link"
-    url: https://google.com
+  - title: "galeriamages"
+    url: /galeriamages/
+  - title: "sobre_nosotros"
+    url: /sobre_nosotros/
+
 foo:
   - title: "home"
     url: /
@@ -34,6 +37,6 @@ foo:
     url: /Perros/
   - title: "galeriamages"
     url: /galeriamages/
-  - title: "External Link"
-    url: https://google.com
+  - title: "sobre_nosotros"
+    url: /sobre_nosotros/
 
