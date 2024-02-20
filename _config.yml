@@ -1,8 +1,7 @@
-title: Chirpy
-description: 
-show_downloads: true
-google_analytics:
-theme: theme: jekyll-theme-chirpy
+permalink: /404.html
+url: "piandhust.github.io"
+targeturl: "tailieubkhn.com"
+baseurl: "tailieubkhn"
 
 plugins:
   - jekyll-remote-theme 
