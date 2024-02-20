@@ -1,8 +1,8 @@
-title: Hacker theme
+title: Chirpy
 description: 
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-hacker
+theme: theme: jekyll-theme-chirpy
 
 plugins:
   - jekyll-remote-theme 
