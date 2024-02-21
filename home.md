@@ -49,12 +49,9 @@ Syntax highlighted code block
 
 ![Image](/assets/img/logo-jekyll.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oscarnovillo/oscarnovillo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Tipo de Pienso | Descripción                                            | Marca           |
+|----------------|--------------------------------------------------------|---------------------|
+| Pienso seco    | Croquetas secas que proporcionan nutrición completa.  | Royal Canin Medium  |
+| Pienso húmedo  | Comida enlatada con alto contenido de humedad.        | Hill's Science Diet |
+| Pienso natural | Elaborado con ingredientes naturales y sin aditivos.  | Taste of the Wild   |
+| Pienso dietético | Formulado para necesidades dietéticas específicas.  | Purina Veterinary Diets |
