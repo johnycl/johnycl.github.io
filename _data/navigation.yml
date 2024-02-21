@@ -6,7 +6,7 @@ main:
         url: /child-1-page-url/
       - title: "Child Link 2"
         url: /child-2-page-url/
-  - title: "Posts by Category"
+  - title: "Posts"
     url: /posts/
   - title: "pagina1"
     url: /pagina1/
@@ -29,7 +29,7 @@ foo:
         url: /child-1-page-url/
       - title: "Child Link 2"
         url: /child-2-page-url/
-  - title: "Posts by Category"
+  - title: "Posts"
     url: /posts/
   - title: "pagina1"
     url: /pagina1/
