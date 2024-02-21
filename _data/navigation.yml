@@ -12,6 +12,8 @@ main:
     url: /pagina1/
   - title: "Tags"
     url: /tags/
+  - title: "Categories"
+    url: /categories/
   - title: "Perros"
     url: /Perros/
   - title: "galeriamages"
@@ -33,6 +35,8 @@ foo:
     url: /pagina1/
   - title: "Tags"
     url: /tags/
+  - title: "Categories"
+    url: /categories/
   - title: "Perros"
     url: /Perros/
   - title: "galeriamages"
