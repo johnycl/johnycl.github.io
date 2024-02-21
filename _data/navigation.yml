@@ -12,13 +12,12 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Perros"
-    url: /Perros/
-  - title: "galeriamages"
-    url: /galeriamages/
-  - title: "sobre_nosotros"
-    url: /sobre_nosotros/
-
+  - title: "Members"
+    url: /members/
+  - title: "kiko"
+    url: /kiko/
+  - title: "External Link"
+    url: https://google.com
 foo:
   - title: "home"
     url: /
@@ -33,11 +32,10 @@ foo:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Perros"
-    url: /Perros/
-  - title: "galeriamages"
-    url: /galeriamages/
-  - title: "sobre_nosotros"
-    url: /sobre_nosotros/
-  
+  - title: "Members"
+    url: /members/
+  - title: "kiko"
+    url: /kiko/
+  - title: "External Link"
+    url: https://google.com
 
