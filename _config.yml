@@ -1,37 +1,41 @@
-remote_theme: "pages-themes/dinky"
+title: Long Haul
+description: Long Form Jekyll theme built with SASS
 
-plugins:
-  - jekyll-remote-theme 
-  - jekyll-include-cache 
-  - jekyll-paginate
+url: https://long-haul.netlify.app
+# Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
+baseurl: # Ex: /project-page
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
 
-title: hola ASIR2
+# Header Option
+# header: large
 
-defaults:
-  - scope:
-      path: "assets/img"
-    values:
-      image: true
+sass:
+    style: compressed
 
-collections:
-  members:
-    output: true
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
 
-# número de posts por página
-paginate: 2
-paginate_path: /blog/page:num/
+navigation:
+    - title: Home
+      url: /index.html
+    - title: About
+      url: /about
+    - title: Contact
+      url: /contact
 
-name: oscar novillo
+social:
+    github: brianmaierjr
+    twitter: brianmaierjr
+    facebook: brianmaierjr
+    email: brimaidesigns@gmail.com
+    linkedin: brianmaierjr
+    youtube: RickAstleyYT
+    tumblr: i-am-a-fish
 
-# Configuración específica para los posts
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+google_analytics: "UA-58263416-1"
+
+disqus:
+    shortname: brianmaierjr
