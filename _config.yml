@@ -1,9 +1,9 @@
-remote_theme: pages-themes/slate@v0.2.0
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
+remote_theme: pages-themes/dinky
+title:
+description: 
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-slate
+theme: 
 #theme: minimal-mistakes-jekyll
 
 plugins:
