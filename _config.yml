@@ -10,9 +10,6 @@ plugins:
   - jekyll-remote-theme 
   - jekyll-include-cache # add this line to the plugins list if you already have one
   - jekyll-paginate
-
-title: hola ASIR2
-
 defaults:
   - scope:
       path: "assets/img"
@@ -24,12 +21,10 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
-
 collections:
   members:
     output: true
