@@ -1,23 +1,36 @@
 ---
 ---
 
-@import
-  "minima/skins/{{ site.minima.skin | default: 'dark' }}",
-  "minima/initialize";
+// Reset using Normalize
+@import "normalize";
 
-body {
+// Import fonts from Google
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,800);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic);
 
-    background: rgb(112, 106, 106) ;
+// Site configuration
+@import "config";
 
+// Import Partials
+@import "partials/typography";
+@import "partials/mixins";
+
+// Modules
+@import "modules/buttons";
+@import "modules/forms";
+@import "modules/tables";
+@import "modules/syntax";
+
+// Mobile up base styles
+@import "breakpoints/mobileup";
+
+// Import media queries add more as you desire
+@media only screen and (min-width: 800px) {
+	@import "breakpoints/800up";
 }
-.post{
-    background: rgb(112, 106, 106) ;
-    color: white;
-    padding: 10px;
-    border-radius: 10px;
-    margin: 10px;
-    font-size: 20px;
-    font-family: 'Times New Roman', Times, serif;
-
+@media only screen and (min-width: 1200px) {
+	@import "breakpoints/1200up";
 }
+
+// If IE support is needed you can add them here or create another stylesheet for specific IE fixes
 

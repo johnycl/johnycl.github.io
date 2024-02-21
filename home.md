@@ -22,9 +22,6 @@ permalink: /
 </ul>
 
 
-
-```
-
 ![Image](/assets/img/perros-personalidad-2.jpg)
 
 | Tipo de Pienso | Descripción                                            | Marca           |
