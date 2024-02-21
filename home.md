@@ -7,7 +7,7 @@ permalink: /
 <ul>
 {% for page in site.pages %}
   <li>
-    <a href="{{ page.url }}">{{ page.title }}</a>
+    <a href="{{ page.url }}">{{ page.title }} {{ post.content }}</a>
   </li>
 {% endfor %}
 </ul>
