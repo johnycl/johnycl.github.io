@@ -1,6 +1,6 @@
 ---
 title: "post antiguo"
-layout: posts
+layout: post
 tags: prueba
 categories: 
     - prueba
