@@ -4,11 +4,16 @@ description: Slate is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
+#theme: minimal-mistakes-jekyll
+
 plugins:
   - jekyll-remote-theme 
   - jekyll-include-cache # add this line to the plugins list if you already have one
   - jekyll-paginate
-  defaults:
+
+title: hola ASIR2
+
+defaults:
   - scope:
       path: "assets/img"
     values:
@@ -36,8 +41,4 @@ paginate: 2
 paginate_path: /blog/page:num/
 
 
-
-
-
-name: johnatan jimenez ortiz
-  
+name: Johnatan Jimenez Ortiz
