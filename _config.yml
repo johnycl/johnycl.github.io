@@ -11,7 +11,7 @@ permalink: blog/:title/
 # header: large
 
 sass:
-    style: compressed
+    style: compr
 
 markdown: kramdown
 highlighter: rouge
