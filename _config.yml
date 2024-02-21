@@ -16,7 +16,7 @@ defaults:
       path: "assets/img"
     values:
       image: true
-    # _posts
+      _posts
   - scope:
       path: ""
       type: posts
