@@ -21,7 +21,8 @@ permalink: /
   {% endfor %}
 </ul>
 
-[Link](url) and ![Image]({{ site.url }}/assets/img/logo-Jekyll.png)
+
+
 ```
 
 ![Image](/assets/img/perros-personalidad-2.jpg)
