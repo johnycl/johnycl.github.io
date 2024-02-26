@@ -19,7 +19,7 @@ main:
   - title: "External Link"
     url: https://google.com
   - title: /examen/
-     url: "/examen/prueba.html"
+     url: "/examen/"
 foo:
   - title: "home"
     url: /
