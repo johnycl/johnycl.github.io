@@ -18,6 +18,8 @@ main:
     url: /kiko/
   - title: "External Link"
     url: https://google.com
+  - title: /examen/
+     url: "/examen/prueba.html"
 foo:
   - title: "home"
     url: /
