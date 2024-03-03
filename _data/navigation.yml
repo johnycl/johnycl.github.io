@@ -18,8 +18,7 @@ main:
     url: /kiko/
   - title: "External Link"
     url: https://google.com
-  - title: /examen/
-     url: "/examen/"
+
 foo:
   - title: "home"
     url: /
@@ -40,6 +39,5 @@ foo:
     url: /kiko/
   - title: "External Link"
     url: https://google.com
-  - title: /examen/
-    url: "/examen/"
+
 
