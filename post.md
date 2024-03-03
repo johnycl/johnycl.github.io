@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /posts/
+title: "examen"
+permalink: /Prueba.html/
 author_profile: true
 ---
+#Esto vale un punto 
