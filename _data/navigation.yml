@@ -40,4 +40,6 @@ foo:
     url: /kiko/
   - title: "External Link"
     url: https://google.com
+  - title: /examen/
+    url: "/examen/"
 
